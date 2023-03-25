@@ -15,9 +15,9 @@
 ### Tools & Technology Used
 ----------------------------
 - Power BI
+----------------------------
 
 
-### <P> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Madhav Ecommerce Sales Dashboard
-</p>
+### <p> Madhav Ecommerce Sales Dashboard </p>
 
 ![madhav_ecom](https://user-images.githubusercontent.com/125373233/227734454-da1b2f80-f82c-42c5-9fc8-88e83a68f5ad.jpg)
