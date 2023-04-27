@@ -1,6 +1,6 @@
 ### About Project
 ------------------
-- Created a Awesome Chocolate Sale Performance Report Dashboard which is a hypothetical comapany used for this project.
+- Created a Awesome Chocolate Sale Performance Report Dashboard which is a hypothetical company used for this project.
 
 ### Project Learning
 ---------------------
